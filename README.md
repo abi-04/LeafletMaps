@@ -15,3 +15,13 @@ Run the command in the root directory of the folder:
 <br/>
 <b>npm run serve</b>
 <br/>
+
+# There are three links that will show up:
+<br/>
+- Task 1
+<br/>
+- Task 2
+<br/>
+- Task 3
+<br/>
+Each one will navigate and show the task mentioned in the assessment.
